@@ -15,7 +15,7 @@ Content Discussed :
 
 
 
-- Design Django Form with Bootstrap and crispy forms
+- Design Django Form with Bootstrap
 
 
 
